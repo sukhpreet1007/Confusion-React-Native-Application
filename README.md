@@ -2,7 +2,6 @@
 
 A cross platform mobile application built for a restaurant where customers can make their restaurant bookings, know what all dishes the restorant serves, add dishes to their favourites and know more about the restaurant.
 
-# Screenshots
 
  
  # Quick Starter guide :rocket:
