@@ -4,14 +4,6 @@ A cross platform mobile application built for a restaurant where customers can m
 
 # Screenshots
 
-<div style="display: grid;">
-  <img src="/images/Image1.jpeg" height="580px" width="320px">
-  <img src="/images/Image2.jpeg" height="580px" width="320px">
-  <img src="/images/Image3.jpeg" height="580px" width="320px">
-  <img src="/images/Image4.jpeg" height="580px" width="320px">
-  <img src="/images/Image5.jpeg" height="580px" width="320px">
-  <img src="/images/Image6.jpeg" height="580px" width="320px">
- </div>
  
  # Quick Starter guide :rocket:
  
